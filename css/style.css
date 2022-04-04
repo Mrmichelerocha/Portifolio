@@ -135,14 +135,14 @@ p {
 .cantotela {
   width: 250px;
   height: 600px;
-  margin-right: -40px;
-  margin-top: -150px;
+  margin-top: -500px;
   float: right;
 }
 
 /* redes sociais links */
 .redesocial {
   margin-left: 50px;
+  margin-bottom: -100px;
 }
 .redesocial ul {
   list-style: none;
@@ -175,6 +175,7 @@ p {
   display: table;
   height: 540px;
   width: 1300px;
+  margin-bottom: -10px;
 }
 .aboutme {
   display:  table-cell;
@@ -198,12 +199,19 @@ p {
 }
 .textaboutme {
   display: table-cell;
+  /* margin-top: 100px; */
   height: 528px;
   width: 400px;
 }
 
 #textaboutme-text {
   width: 400px;
+}
+.cantoteladois {
+  position: static;
+  margin-left: -10px;
+  margin-bottom: -550px;
+
 }
 
 /*  */
@@ -272,7 +280,38 @@ p {
 #textinterativa b {
   color: white;
 }
-
+.cantotelaboladois {
+  position: static;
+  margin-bottom: -400px;
+  margin-left: -350px;
+  width: 300px;
+  height: 300px;
+}
+.cantotelabola {
+  position: static;
+  margin-bottom: -300px;
+  margin-left: -150px;
+  width: 300px;
+  height: 300px;
+}
+.cantotelabolaflot {
+  position: static;
+  float: right;
+  /* margin-right: -300px; */
+  margin-top: -150px;
+  margin-left: -650px;
+  width: 300px;
+  height: 300px;
+}
+.cantotelabolaflotdois {
+  position: static;
+  float: right;
+  /* margin-right: -300px; */
+  margin-top: 20px;
+  margin-left: -650px;
+  width: 300px;
+  height: 300px;
+}
 /*  */
 
 /* contato */
