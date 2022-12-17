@@ -7,6 +7,12 @@ fiz um projeto no figma e tentei seguir: saiu bem mais ou menos, e o site não t
 # MyBudget
 Minha primeira tentativa de portifolio na ENC, tava aprendendo HTML e CSS
 
+## 💻 Projeto
+Para ver o projeto em tempo real:
+
+<a href = "https://mrmichelerocha.github.io/portifolio/"><p>acesse o site </p>/
+
+
 ## 🔧 Funções
 
 - Mostar meu curriculo 
@@ -17,7 +23,10 @@ Minha primeira tentativa de portifolio na ENC, tava aprendendo HTML e CSS
 Utilizando apenas **WEB** e as bibliotecas:
 > - HTML
 > - CSS
- 
+
+
+
+
 
 ### 🤝 Suporte/Contato
 
