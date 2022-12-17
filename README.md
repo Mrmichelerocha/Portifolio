@@ -8,10 +8,9 @@ fiz um projeto no figma e tentei seguir: saiu bem mais ou menos, e o site não t
 Minha primeira tentativa de portifolio na ENC, tava aprendendo HTML e CSS
 
 ## 💻 Projeto
-Para ver o projeto em tempo real:
+Para ver o projeto em tempo real (clik na img):
 
-<a href = "https://mrmichelerocha.github.io/portifolio/"><p>acesse o site </p>/
-
+<a href = "https://mrmichelerocha.github.io/portifolio/"><img src="https://user-images.githubusercontent.com/93664169/208253319-cc6f946e-3e6a-4054-b9c2-e8cfae4e4368.png"></a>
 
 ## 🔧 Funções
 
