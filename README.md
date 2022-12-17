@@ -1,7 +1,7 @@
 # portifolio
 
 
-fiz um projeto no figma e tentei seguir: saiu bem mais ou menos, e o site não ta nenhum pouco parecido com isso hahahah
+fiz um projeto no figma e tentei seguir: saiu bem mais ou menos, e o site não ta nenhum pouco parecido com isso hahahah, e não ta resopnsivo infelizmente na epoca eu não sabia arrumar isso.
 ![image](https://user-images.githubusercontent.com/93664169/208252909-d3b9cd20-687f-4f70-a8c6-7aa122d29092.png)
 
 # MyBudget
